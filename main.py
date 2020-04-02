@@ -1,5 +1,5 @@
 import time, os, shutil
-import instagram_scraper as insta
+import instagram-scraper as insta
 import json
 from subprocess import call
 from getpass import getpass
